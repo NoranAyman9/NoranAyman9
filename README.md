@@ -1,83 +1,84 @@
-# Hi there, I'm Noran Ayman 👋
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Noran%20Ayman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22" width="100%" />
 
-## 👩‍💻 About Me
+<a href="https://github.com/NoranAyman9">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=520&height=50&lines=Hi+there!+%F0%9F%91%8B;React+Developer+%E2%9A%9B%EF%B8%8F;CS+%26+AI+Student+%F0%9F%8E%93;Building+cool+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-🎓 Computer Science & Artificial Intelligence Student at Menoufia National University (Expected Graduation: 2027)
+<br/>
 
-💻 Frontend Developer specializing in React.js and modern web development
+<img src="https://komarev.com/ghpvc/?username=NoranAyman9&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile views" />
 
-🚀 Passionate about building responsive, user-friendly, and scalable web applications
-
-🌱 Currently improving my skills in:
-- React Ecosystem
-- JavaScript
-- Frontend Architecture
-- APIs Integration
-- UI/UX Development
-
-🤝 Strong believer in teamwork, continuous learning, and problem-solving
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### ⚡ Quick Facts
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- 🎓 Menoufia National University · Class of 2027
+- ⚛️ Frontend Developer · React.js
+- 🌱 Learning: React Ecosystem · APIs · Frontend Architecture
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🏥 [ORVICO](https://github.com/NoranAyman9) — DEPI Final Project
-Smart platform connecting homeowners with trusted technicians to simplify home maintenance services. Includes offer comparison, in-app communication, and OTP-secured service confirmation.
+<div align="center">
 
-**Stack:** React.js · Node.js · MongoDB
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nodejs,mongodb&perline=9" alt="Frontend and backend skills" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=5" alt="Tools" />
 
----
-
-### 🌐 [Tradex Website](https://github.com/NoranAyman9) — NTI Final Project
-Fully responsive company website offering services such as online marketing, web design, graphic design, networking, and WordPress solutions.
-
-**Stack:** HTML · CSS · JavaScript · Bootstrap
+</div>
 
 ---
 
-### 👥 GDG Organizing Team Website — GDG on Campus Banha
-Responsive website for the GDG organizing team, focused on clean design and cross-device compatibility.
+### 🚀 Projects
 
-**Stack:** HTML · CSS
+<div align="center">
 
----
+| Project | Stack |
+| :-- | :-- |
+| 🏠 [**ORVICO**](https://github.com/NoranAyman9) · DEPI Final | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🌐 [**Tradex**](https://github.com/NoranAyman9) · NTI Final | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| 👥 **GDG Banha Team Site** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoranAyman9&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoranAyman9&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NoranAyman9&theme=tokyonight)
+</div>
 
 ---
 
-## 🤝 Connect With Me
+### 📊 Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noran-ayman49)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoranAyman9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noranaymanali5990@gmail.com)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoranAyman9&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoranAyman9&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoranAyman9&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NoranAyman9&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
+
+</div>
 
 ---
 
-⭐ *"The best way to predict the future is to build it."*
+### 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/noran-ayman49"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/NoranAyman9"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:noranaymanali5990@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%22The+best+way+to+predict+the+future+is+to+build+it.%22" alt="Quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
