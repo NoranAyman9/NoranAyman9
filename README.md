@@ -3,12 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Noran%20Ayman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer&descAlignY=58&descSize=22" width="100%" />
 
 <a href="https://github.com/NoranAyman9">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=520&height=50&lines=Hi+there!+%F0%9F%91%8B;React+Developer+%E2%9A%9B%EF%B8%8F;CS+%26+AI+Student+%F0%9F%8E%93;Building+cool+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=520&height=50&lines=Hi+there!+%F0%9F%91%8B;React+Developer+%E2%9A%9B%EF%B8%8F;AI+Student+%F0%9F%8E%93;Building+cool+web+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=NoranAyman9&label=Profile%20Views&color=61DAFB&style=for-the-badge" alt="Profile views" />
 
 </div>
 
